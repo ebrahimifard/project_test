@@ -1,1 +1,2 @@
 First from dev branch!
+Hi!
